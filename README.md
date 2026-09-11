@@ -20,13 +20,13 @@
 <br/><br/>
 
 <!-- Quick Navigation Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-tanujexe.github.io-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tanujexe.github.io/Portfolio/)
+<a href="https://tanujexe.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-tanujexe.github.io-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanuj-agrawal-19b609378/)
+<a href="https://linkedin.com/in/tanuj-agrawal-19b609378/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-tanujexe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanujexe)
+<a href="https://github.com/tanujexe"><img src="https://img.shields.io/badge/GitHub-tanujexe-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanujagrawal1432@gmail.com)
+<a href="mailto:tanujagrawal1432@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -75,11 +75,14 @@ At the same time, I'm strengthening the core mathematical foundation underneath 
 
 ### 🧠 AI / ML & Data Science
 <img src="https://skillicons.dev/icons?i=py,fastapi&theme=dark" alt="AI ML Icons" />
-<br/>
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0066CC?style=flat-square&logo=xgboost&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+<br/><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+&nbsp;
+<img src="https://img.shields.io/badge/XGBoost-0066CC?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost" />
+&nbsp;
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
 
 <br/><br/>
 
@@ -181,7 +184,7 @@ Predicts the thermal behavior of relief shelters in extreme Ladakh conditions us
 |---|---|---|
 | 🇮🇳 **Smart India Hackathon 2026** | High-altitude relief shelter thermal prediction & design OS | *Active Competitor* |
 | 🏫 **College & National Hackathons** | Rapid full-stack builds, AI-driven solutions under time constraints | *Frequent Participant* |
-| 💻 **LeetCode** | Data Structures, Algorithms & Problem Solving | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/) |
+| 💻 **LeetCode** | Data Structures, Algorithms & Problem Solving | <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a> |
 
 </div>
 
@@ -252,13 +255,13 @@ Got an interesting project, hackathon team opportunity, or full-stack/AI role? L
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanuj%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanuj-agrawal-19b609378/)
+<a href="https://linkedin.com/in/tanuj-agrawal-19b609378/"><img src="https://img.shields.io/badge/LinkedIn-Tanuj%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tanujexe.github.io/Portfolio/)
+<a href="https://tanujexe.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-tanujexe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanujexe)
+<a href="https://github.com/tanujexe"><img src="https://img.shields.io/badge/GitHub-tanujexe-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Direct%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanujagrawal1432@gmail.com)
+<a href="mailto:tanujagrawal1432@gmail.com"><img src="https://img.shields.io/badge/Email-Direct%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
