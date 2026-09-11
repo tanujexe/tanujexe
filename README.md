@@ -111,30 +111,6 @@ At the same time, I'm strengthening the core mathematical foundation underneath 
 
 ---
 
-## 🧠 Currently Building & Learning Roadmap
-
-```mermaid
-graph LR
-    subgraph Backend Engineering
-        A[Backend Architecture] --> B[Auth & Security Best Practices]
-        A --> C[DB Indexing & Query Tuning]
-        A --> D[Caching with Redis]
-        A --> E[Queues & Asynchronous Jobs]
-        A --> F[CDNs & Object Storage]
-    end
-
-    subgraph AI/ML Foundations
-        G[ML Core Math] --> H[Linear Algebra & Multivariate Calculus]
-        G --> I[Gradients · Jacobians · Hessians]
-        G --> J[Feature Scaling & Optimization]
-        G --> K[Hybrid Physics + ML Surrogate Models]
-    end
-```
-
-<br/>
-
----
-
 ## 🪁 Featured Projects
 
 <table width="100%">
@@ -196,17 +172,17 @@ Predicts the thermal behavior of relief shelters in extreme Ladakh conditions us
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=tanujexe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tanujexe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanujexe&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanujexe&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanujexe&hide_border=true&theme=tokyonight&background=00000000" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanujexe&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanujexe&theme=tokyo-night&hide_border=true&bg_color=00000000" width="95%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanujexe&theme=tokyo-night&hide_border=true" width="95%" alt="Activity Graph" />
 
 <br/><br/>
 
